@@ -1,0 +1,9 @@
+#content{
+    background-color: goldenrod;
+}
+body{
+    width: 960px;
+    margin: auto;
+    border-left: 10px double gold;
+    border-right: 10px double gold;
+}
