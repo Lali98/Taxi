@@ -37,3 +37,8 @@ ul{
 hr{
     border-color:#ff0;margin-bottom:30px
 }
+
+.right{
+    float: left;
+    height: 300px;
+}
