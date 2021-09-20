@@ -2,3 +2,12 @@
     float: right;
     height: 300px;
 }
+#content{
+    background-color: goldenrod;
+}
+body{
+    width: 960px;
+    margin: auto;
+    border-right: 10px double gold;
+    border-left: 10px double gold;
+}
